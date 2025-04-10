@@ -1,0 +1,7 @@
+TRUE RANDOM KEY (SHA-256):
+09a127ad303176e280c00749f9557729c8f05bdba0f01bccc5d72eeff0499bd2
+
+PSEUDO RANDOM KEY (SHA-256):
+4c627eaaaf14506f064f2637f5fb9664f99ab1abe5cfdc6baefa48fd7faf3027
+
+Hamming Distance (bit-level): 131 bits
